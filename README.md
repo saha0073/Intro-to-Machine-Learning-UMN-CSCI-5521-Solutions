@@ -6,4 +6,6 @@ Hi everyone, these are my complete solutions for assignments of CSCI 5521: Intro
 ### [Assignment 3](https://github.com/saha0073/Intro-to-Machine-Learning-UMN-CSCI-5521-Spring-2020-Solutions/blob/master/a3/CSci_5521_HW3_new.pdf): Logistic Regression, Principal Component Analysis (Done)
 ### [Assignment 4](https://github.com/saha0073/Intro-to-Machine-Learning-UMN-CSCI-5521-Spring-2020-Solutions/blob/master/a4/CSci_5521_HW4.pdf): Support Vector Machine (Done)
 
+If you have any questions feel free to send an email to [saha0073@umn.edu](mailto:saha0073@umn.edu)
+
 Happy Learning!
